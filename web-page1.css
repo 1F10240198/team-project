@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+hr {
+    height: 6px;
+    background-color: black;
+    border-bottom: 2px solid red;
+}
+
+.sidebar {
+    width: 30%;
+    margin: 10px 0 10px 0;
+}
+
+.sidebar li {
+    display: block;
+    margin: 0px 0px 5px 0px;
+    padding: 5px 5px 5px 5px;
+    border-right: solid 2px #cccccc;
+    background-color: #5f5e5e;
+}
+
+.sidebar a {
+    color: #ffffff;
+}
