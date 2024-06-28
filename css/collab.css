@@ -61,3 +61,36 @@
 .item_box .item_link:hover .item_mask {
     top: 50%;
 }
+
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.flex-box img {
+    vertical-align: top;
+}
+  
+.left-box img {
+    width: 100%;
+    margin: 0;
+    padding: 0 0 0%;
+}
+  
+.mid-box img {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 0 0 auto;
+}
+
+.right-box img {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 0 0 auto;
+}
